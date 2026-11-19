@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit|Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "if [ -n \"$CLAUDE_PROJECT_DIR\" ] && [ -f \"$CLAUDE_PROJECT_DIR/scripts/guard_writes.py\" ]; then exec python3 -I \"$CLAUDE_PROJECT_DIR/scripts/guard_writes.py\"; else exit 0; fi"
+          }
+        ]
+      }
+    ]
+  }
+}
