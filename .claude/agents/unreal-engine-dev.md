@@ -105,14 +105,16 @@ others only when the task needs them.
 
 | If the task is about… | Start with | Then, only if needed |
 |---|---|---|
-| Combat / melee | `knowledge/features/combat.md` | the matching reference (`combat-botw-genshin.md`, `combat-windwaker.md`, or `combat-dnd5e.md`); `knowledge/features/encounter-design.md` for encounters; `knowledge/features/enemy-tactics.md` for enemy behavior |
+| Combat / melee | `knowledge/features/combat.md` | the matching reference (`combat-botw-genshin.md`, `combat-windwaker.md`, `combat-dnd5e.md`, `combat-freeflow.md` for Arkham crowd combat, `combat-shadow-of-mordor.md` for Shadow of Mordor melee/ranged details, or `combat-spellcasting.md` for spells/abilities/reactions); `knowledge/features/encounter-design.md` for encounters; `knowledge/features/enemy-tactics.md` for enemy behavior |
 | Enemy / game AI | `knowledge/features/enemy-ai.md` (UE implementation) | `knowledge/features/enemy-tactics.md` (behavior), `knowledge/simulation-agents.md` (needs/utility/directors), `knowledge/emergent-behavior.md` (flocking) |
 | Progression / leveling | `knowledge/features/progression.md` (runtime) | `knowledge/features/class-skill-leveling.md` (design models), `knowledge/rpg-design.md` (curves/itemization) |
+| Items / crafting / durability | `knowledge/features/inventory-equipment.md` (inventory/equipment) | `knowledge/features/durability-reforging-genetics.md` (durability/reforge/inheritance), `knowledge/features/crafting-tag-based.md` (tag-based ingredient crafting), `knowledge/features/save-system.md` (persistence) |
 | Modding / data-driven | `knowledge/features/data-driven-modding.md` (data architecture) | `knowledge/modding-support.md` (PAK/plugins/UGC) |
 | Save / load | `knowledge/features/save-system.md` (UE implementation) | `knowledge/game-architecture.md` (versioning) |
 | Performance | `knowledge/ue-performance.md` (profiling) | `knowledge/features/performance-data-oriented.md` (data-oriented design) |
+| Art style / rendering | `knowledge/paper-parchment-style.md` (paper/parchment materials and post-process) | `knowledge/multi-style-rendering.md` (realistic near, impressionist far, watercolor VFX), `knowledge/ue-performance.md` (profiling), `knowledge/ue5-overview.md` (rendering features) |
 | Game/UX design | `knowledge/game-design-fundamentals.md` (theory) | `knowledge/design-best-practices.md` (onboarding/playtesting) |
-| Networking / multiplayer | `knowledge/replication.md` | `knowledge/features/deterministic-simulation.md` (lockstep) |
+| Networking / co-op | `knowledge/features/co-op.md` (topology, state, scaling) | `knowledge/replication.md` (property replication), `knowledge/features/deterministic-simulation.md` (lockstep) |
 | Input / game feel | `knowledge/enhanced-input.md` | `knowledge/ue-game-feel.md` |
 
 ## Process

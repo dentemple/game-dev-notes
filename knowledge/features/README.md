@@ -86,14 +86,21 @@ updated: <YYYY-MM-DD>
 | combat-botw-genshin | Combat Reference — Breath of the Wild & Genshin Impact | feature, combat, botw, genshin, elemental-reactions, flurry-rush, parry, durability, stamina, slow-motion | 2026-11-18 |
 | combat-windwaker | Combat Reference — Wind Waker (Parry & Telegraphing) | feature, combat, windwaker, parry, counter, telegraph, lock-on, disarm, sword | 2026-11-18 |
 | combat-dnd5e | Combat Mechanics — D&D 5e & Baldur's Gate 3 Translation | feature, combat, dnd, 5e, advantage, disadvantage, action-economy, conditions, bounded-accuracy, bg3 | 2026-11-18 |
+| combat-freeflow | Freeflow Combat (Arkham, Shadow of Mordor) | feature, combat, freeflow, arkham, shadow-of-mordor, nemesis, crowd-control, attack-token, hit-streak, might, traits | 2026-11-19 |
+| combat-shadow-of-mordor | Shadow of Mordor Combat (Melee & Ranged) | feature, combat, shadow-of-mordor, shadow-of-war, melee, ranged, hit-streak, might, elf-shot, focus, execution, wraith | 2026-11-19 |
+| combat-spellcasting | Spellcasting & Spell Combat (Mass Effect, Wrath, Genshin, Skyrim, WoW, GW) | feature, combat, spellcasting, abilities, primer, detonator, elemental, reactions, cooldown, mana, ultimate, crowd-control | 2026-11-19 |
 | encounter-design | Encounter Design (5 Room Dungeon & Pacing) | feature, encounter, combat, design, 5-room-dungeon, pacing, terrain, action-economy, telegraph | 2026-11-18 |
 | enemy-tactics | Enemy Tactics & AI Archetypes (Monsters Know What They're Doing) | feature, enemy, combat, ai, tactics, monster, archetype, self-preservation, retreat, morale | 2026-11-18 |
 | class-skill-leveling | Class, Skill & Leveling Design (D&D 5e, Skyrim, WoW, Battlefield) | feature, class, skill, leveling, talent-tree, perk, progression, xp | 2026-11-18 |
 | deterministic-simulation | Deterministic Simulation & Lockstep Multiplayer | feature, determinism, lockstep, multiplayer, desync, fixed-point, simulation | 2026-11-18 |
+| co-op | Co-op Play (Topology, State, Scaling) | feature, co-op, multiplayer, networking, replication, save, session, party, difficulty, host, dedicated-server, drop-in | 2026-11-24 |
+| stardew-valley-co-op | Stardew Valley Co-op (Case Study) | feature, co-op, stardew-valley, host, farmhand, save, shared-world, per-player, peer-to-peer, lidgren | 2026-11-24 |
 | performance-data-oriented | Performance & Data-Oriented Design (UPS Optimization) | feature, performance, ups, data-oriented, soa, cache, belt, optimization | 2026-11-18 |
 | data-driven-modding | Data-Driven Architecture & Modding | feature, data-driven, modding, lua, prototype, content, scripting | 2026-11-18 |
 | factory-automation | Factory & Automation Design (Core Loop, Pollution, Blueprints) | feature, factory, automation, core-loop, pollution, blueprint, design | 2026-11-18 |
 | inventory-equipment | Inventory & Equipment System | feature, inventory, equipment, items, lyra, gas, data-driven | 2026-11-18 |
+| durability-reforging-genetics | Durability, Reforging & Item Genetics | feature, items, durability, reforging, crafting, genetics, inheritance, lineage, affixes, legacy, pokemon, gas, save | 2026-11-19 |
+| crafting-tag-based | Tag-Based Ingredient Crafting | feature, crafting, items, ingredients, tags, categories, atelier, monster-hunter, left-4-dead, crock-pot, alchemy, opportunity-cost | 2026-11-20 |
 | save-system | Save/Load & Persistence | feature, save, load, serialization, usavegame, versioning, migration | 2026-11-18 |
 | enemy-ai | Enemy AI (Behavior Trees, EQS, Utility) | feature, enemy, ai, behavior-tree, eqs, utility, statetree, fsm | 2026-11-18 |
 | director | AI Director & Pacing System | feature, director, pacing, storyteller, difficulty, threat-budget | 2026-11-18 |

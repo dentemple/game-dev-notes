@@ -107,6 +107,8 @@ research never enters context.
 | ue-project-architecture | UE Project Structure & Source Control | structure, folder, naming, git, lfs, source-control, conventions | 2026-11-18 |
 | ue-performance | UE Performance & Profiling | performance, profiling, frame-budget, stat-unit, gpu, cpu, insights, optimization | 2026-11-18 |
 | ue-game-feel | UE Game Feel (Coyote Time, Buffering, Hitstop) | game-feel, coyote-time, jump-buffering, hitstop, screen-shake, enhanced-input, juice | 2026-11-18 |
+| paper-parchment-style | Paper & Parchment Visual Style (UE) | art, rendering, paper, parchment, post-process, materials, decals, nanite, substrate, ui, manuscript | 2026-11-19 |
+| multi-style-rendering | Multi-Style Rendering (Realistic Near, Impressionist Far, Watercolor VFX) | rendering, art, impressionism, kuwahara, watercolor, vfx, post-process, sceneviewextension, tsr, style-profile | 2026-11-19 |
 | engineering-best-practices | Engineering Best Practices (Patterns & Anti-Patterns) | best-practices, patterns, kiss, yagni, tick, cast, blueprint, cpp, anti-pattern | 2026-11-18 |
 | game-architecture | Game Architecture (Actors, Components, Subsystems, Save) | architecture, actor, component, subsystem, event-dispatcher, interface, casting, save, versioning | 2026-11-18 |
 | modding-support | Modding Support (Mod-First Architecture) | modding, mod-first, ugc, modio, steam-workshop, pak, game-features, data-driven, gameplaytags, plugin | 2026-11-18 |
